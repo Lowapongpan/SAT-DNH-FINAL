@@ -1,0 +1,10 @@
+{
+  "answers": [
+    { "module": "RW1", "question": 1, "answer": "A" },
+    { "module": "RW1", "question": 2, "answer": "C" },
+    { "module": "RW2", "question": 1, "answer": "B" },
+    { "module": "MATH1", "question": 1, "answer": "D" },
+    { "module": "MATH1", "question": 2, "answer": "A" },
+    { "module": "MATH2", "question": 1, "answer": "B" }
+  ]
+}
