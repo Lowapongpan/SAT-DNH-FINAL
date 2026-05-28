@@ -1,0 +1,245 @@
+{
+  "folder": "April 4 - May 24 SATs",
+  "tests": [
+    {
+      "id": "preloaded_101-3604226",
+      "title": "10月第1套题目--分享版",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "10月第1套题目--分享版.pdf",
+      "csv": "10月第1套答案解析--分享版.csv",
+      "data": "data/101-3604226.json",
+      "questions": 53,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025102-2412544",
+      "title": "2025年10月亚太第2套【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年10月亚太第2套【分享版】.pdf",
+      "csv": "2025年10月亚太第2套答案解析【分享版】.csv",
+      "data": "data/2025102-2412544.json",
+      "questions": 50,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025101-4120244",
+      "title": "2025年10月北美第1套题目--分享版",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年10月北美第1套题目--分享版.pdf",
+      "csv": "2025年10月北美第1套答案解析--分享版.csv",
+      "data": "data/2025101-4120244.json",
+      "questions": 53,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025111-4870431",
+      "title": "2025年11月亚太第1套-题目【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年11月亚太第1套-题目【分享版】.pdf",
+      "csv": "2025年11月亚太第1套-答案解析【分享版】.csv",
+      "data": "data/2025111-4870431.json",
+      "questions": 54,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025111-724357",
+      "title": "2025年11月北美第1套-题目文本【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年11月北美第1套-题目文本【分享版】.pdf",
+      "csv": "11月SAT北美答案解析【分享版】.csv",
+      "data": "data/2025111-724357.json",
+      "questions": 52,
+      "csvMatchScore": 1.2
+    },
+    {
+      "id": "preloaded_2025112-4509992",
+      "title": "2025年11月第2套-题目【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年11月第2套-题目【分享版】.pdf",
+      "csv": "2025年11月第2套答案解析-分享版.csv",
+      "data": "data/2025112-4509992.json",
+      "questions": 53,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025121-9423714",
+      "title": "2025年12月亚太第1套-题目【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年12月亚太第1套-题目【分享版】.pdf",
+      "csv": "2025年12月亚太第1套答案解析【分享版】.csv",
+      "data": "data/2025121-9423714.json",
+      "questions": 54,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025121m2-easy-8667802",
+      "title": "2025年12月亚太阅读语法第1套M2-Easy-题目文本-分享版",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年12月亚太阅读语法第1套M2-Easy-题目文本-分享版.pdf",
+      "csv": "2025年12月亚太阅读语法第1套M2-Easy-答案解析-分享版.csv",
+      "data": "data/2025121m2-easy-8667802.json",
+      "questions": 23,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025122m2-easy-13-9399946",
+      "title": "2025年12月亚太阅读语法第2套M2-Easy-13道题-题目文本-分享版",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年12月亚太阅读语法第2套M2-Easy-13道题-题目文本-分享版.pdf",
+      "csv": "2025年12月亚太阅读语法第2套M2-Easy-13道题-答案解析-分享版.csv",
+      "data": "data/2025122m2-easy-13-9399946.json",
+      "questions": 13,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025123m2-easy-9-3589794",
+      "title": "2025年12月亚太阅读语法第3套M2-Easy-9道题-题目文本-分享版",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年12月亚太阅读语法第3套M2-Easy-9道题-题目文本-分享版.pdf",
+      "csv": "2025年12月亚太阅读语法第3套M2-Easy-9道题-答案解析-分享版.csv",
+      "data": "data/2025123m2-easy-9-3589794.json",
+      "questions": 9,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025121-2094438",
+      "title": "2025年12月北美第1套阅读语法题目文本-分享版",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年12月北美第1套阅读语法题目文本-分享版.pdf",
+      "csv": "2025年12月北美第1套阅读语法答案解析-分享版.csv",
+      "data": "data/2025121-2094438.json",
+      "questions": 54,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2025122-m1-17-383142",
+      "title": "2025年12月北美第2套阅读语法（只有M1-剩17题）题目文本-分享版",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年12月北美第2套阅读语法（只有M1-剩17题）题目文本-分享版.pdf",
+      "csv": "2025年12月北美第2套阅读语法（只有M1-剩17题）答案解析-分享版.pdf.csv",
+      "data": "data/2025122-m1-17-383142.json",
+      "questions": 17,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_20253a-6-2-4259660",
+      "title": "2025年3月北美A（第6套）题目【分享版】(2)",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年3月北美A（第6套）题目【分享版】(2).pdf",
+      "csv": "",
+      "data": "data/20253a-6-2-4259660.json",
+      "questions": 18,
+      "csvMatchScore": 0
+    },
+    {
+      "id": "preloaded_202562-b-2303252",
+      "title": "2025年6月第2套（亚太B）【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "2025年6月第2套（亚太B）【分享版】.pdf",
+      "csv": "2025年6月第2套（亚太B）答案解析 【分享版】.csv",
+      "data": "data/202562-b-2303252.json",
+      "questions": 28,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_25122-3-1-2163310",
+      "title": "25年12月第2&3套阅读【分享版】(1)",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "25年12月第2&3套阅读【分享版】(1).pdf",
+      "csv": "25年12月第2&3套阅读语答案解析【分享版】.csv",
+      "data": "data/25122-3-1-2163310.json",
+      "questions": 35,
+      "csvMatchScore": 0.97
+    },
+    {
+      "id": "preloaded_2551-2-8339567",
+      "title": "25年5月第1套【亚太部分】【分享版】(2)",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "25年5月第1套【亚太部分】【分享版】(2).pdf",
+      "csv": "25年5月第1套【亚太部分】答案解析【分享版】.csv",
+      "data": "data/2551-2-8339567.json",
+      "questions": 18,
+      "csvMatchScore": 1.03
+    },
+    {
+      "id": "preloaded_2554-2-6436033",
+      "title": "25年5月第4套阅读语法【分享版】(2)",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "25年5月第4套阅读语法【分享版】(2).pdf",
+      "csv": "25年5月第4套阅读语法答案解析【分享版】.csv",
+      "data": "data/2554-2-6436033.json",
+      "questions": 37,
+      "csvMatchScore": 1.03
+    },
+    {
+      "id": "preloaded_2581-9610044",
+      "title": "25年8月第1套真题排版-分享版",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "25年8月第1套真题排版-分享版.pdf",
+      "csv": "25年8月第1套答案解析【分享版】.csv",
+      "data": "data/2581-9610044.json",
+      "questions": 49,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2583-a-7403379",
+      "title": "25年8月第3套阅读语法（北美A）【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "25年8月第3套阅读语法（北美A）【分享版】.pdf",
+      "csv": "25年8月第3套阅读语法答案解析（北美A）-【分享版】.csv",
+      "data": "data/2583-a-7403379.json",
+      "questions": 47,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_2652-2-1162316",
+      "title": "26年5月第2套-题目文本-分享版(2)",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "26年5月第2套-题目文本-分享版(2).pdf",
+      "csv": "26年5月第2套 - 答案解析-分享版.csv",
+      "data": "data/2652-2-1162316.json",
+      "questions": 19,
+      "csvMatchScore": 1.04
+    },
+    {
+      "id": "preloaded_32sat-2-9134276",
+      "title": "3月第2套SAT真题-分享版(2)",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "3月第2套SAT真题-分享版(2).pdf",
+      "csv": "3月第2套答案解析-分享版.csv",
+      "data": "data/32sat-2-9134276.json",
+      "questions": 36,
+      "csvMatchScore": 1.01
+    },
+    {
+      "id": "preloaded_61a-3740666",
+      "title": "6月第1套亚太A（只有阅读语法，无数学）【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "6月第1套亚太A（只有阅读语法，无数学）【分享版】.pdf",
+      "csv": "6月第1套亚太A答案解析【分享版】.csv",
+      "data": "data/61a-3740666.json",
+      "questions": 53,
+      "csvMatchScore": 0.84
+    },
+    {
+      "id": "preloaded_63-8106132",
+      "title": "6月第3套（北美）题目【分享版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "6月第3套（北美）题目【分享版】.pdf",
+      "csv": "6月第3套（北美）答案解析【分享版】.csv",
+      "data": "data/63-8106132.json",
+      "questions": 44,
+      "csvMatchScore": 1.1
+    },
+    {
+      "id": "preloaded_sat-2565895",
+      "title": "SAT阅读推断题难题合集【学生版】",
+      "folder": "April 4 - May 24 SATs",
+      "pdf": "SAT阅读推断题难题合集【学生版】.pdf",
+      "csv": "",
+      "data": "data/sat-2565895.json",
+      "questions": 34,
+      "csvMatchScore": 0
+    }
+  ]
+}
